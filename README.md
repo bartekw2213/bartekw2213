@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bartek Wilczyński
+- 👀 I’m interested in algorithms, mathematics, programming and everything regarding computer science
+- 🌱 I’m currently learning low level programming, processor architecture and writing programs in assembly language
+- 📫 How to reach me: just write me an email - bartekw2213@gmail.com
